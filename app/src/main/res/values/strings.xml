@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Firebase Database App</string>
+    <string name="btn_save">Save</string>
+    <string name="edt_name">Edit Name</string>
+    <string name="edt_email">Enter Email</string>
+    <string name="edt_id">Enter Id</string>
+    <string name="btn_view">View</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1099198859219",
+    "project_id": "my-fb--pro-app",
+    "storage_bucket": "my-fb--pro-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099198859219:android:7cdef5bfaa3413f0b95126",
+        "android_client_info": {
+          "package_name": "com.r19.myfirebasedatabaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099198859219-9ujc1omgvek9ca2punbs4f8mrkc1c2rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB396vtpIEXvXH4vqBl18anf3lm2btWyXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099198859219-9ujc1omgvek9ca2punbs4f8mrkc1c2rb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
